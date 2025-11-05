@@ -81,5 +81,3 @@ Software Engineer | Java | Spring Boot | AWS
 ⭐ **If this repo helps you, give it a star!**
 It motivates me to keep solving and sharing more problems.
 
-⭐ **If this repo helps you, give it a star!**  
-It motivates me to keep solving and sharing more problems.

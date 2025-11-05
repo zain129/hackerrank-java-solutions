@@ -1,4 +1,4 @@
-package simple_java;
+package strings;
 
 import java.text.NumberFormat;
 import java.util.Locale;

@@ -10,7 +10,7 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /**
-     * Problem URL: <href src='https://www.hackerrank.com/challenges/simple-array-sum/problem'>https://www.hackerrank.com/challenges/simple-array-sum<br><br>
+     * Problem URL: https://www.hackerrank.com/challenges/simple-array-sum/problem<br><br>
      * Problem Statement:<br>
      * Given an array of integers, find the sum of its elements.
      * <p>

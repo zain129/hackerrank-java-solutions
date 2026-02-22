@@ -1,7 +1,7 @@
 package algorithms.implementation;
 
 /**
- * Problem URL: <a href="https://www.hackerrank.com/challenges/kangaroo/problem">https://www.hackerrank.com/challenges/kangaroo/problem</link>
+ * Problem URL: <a href="https://www.hackerrank.com/challenges/kangaroo/problem">https://www.hackerrank.com/challenges/kangaroo/problem</a>
  */
 public class NumberLineJump {
 
